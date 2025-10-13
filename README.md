@@ -35,8 +35,5 @@ based on the 5-day rolling returns of:
 ## Expected Results
 Typical accuracy: **55–60%** (realistic for financial prediction tasks)
 
-## Project Structure
-See folders `src/`, `notebooks/`, and `reports/` for detailed code and outputs.
-
 ## License
 This project is for educational purposes.
